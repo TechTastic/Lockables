@@ -1,1 +1,2 @@
-items.Example_Block.name=Example Block
+server.items.Tool_Lock.name=Lock
+server.items.Tool_Lock.desc=Used to Prevent Access
