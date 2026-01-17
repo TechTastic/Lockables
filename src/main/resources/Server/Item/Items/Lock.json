@@ -1,0 +1,24 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Tool_Lock.name",
+    "Description": "server.items.Tool_Lock.desc"
+  },
+  "Model": "Items/Consumables/Scrolls/Map.blockymodel",
+  "Texture": "Items/Consumables/Scrolls/Map_Wood.png",
+  "Icon": "Icons/ItemsGenerated/Tool_Map.png",
+  "PlayerAnimationsId": "Default",
+  "Categories": [
+    "Tool"
+  ],
+  "Tags": {
+    "Type": [
+      "Tool"
+    ]
+  },
+  "Tool": {
+    "HitSoundLayer": "SFX_Metal_Hit"
+  },
+  "ItemSoundSetId": "ISS_Items_Metal",
+  "Quality": "Tool",
+  "MaxStack": 1
+}
